@@ -25,6 +25,9 @@
 <!-- Example Image Placeholder -->
 <img src="/docs/dashboard.png" width="800" alt="Dashboard View">
 ```
+<img width="1662" height="996" alt="image" src="https://github.com/user-attachments/assets/9112bafa-5336-440f-8335-0e15ca5d89fc" />
+<img width="1843" height="1023" alt="image" src="https://github.com/user-attachments/assets/ea1642b6-4c5e-413f-a86c-cf069f72767a" />
+<img width="1817" height="725" alt="image" src="https://github.com/user-attachments/assets/b111b320-d26a-4035-80e9-ac5c810a9bcf" />
 
 ---
 
