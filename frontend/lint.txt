@@ -1,0 +1,43 @@
+
+> frontend@0.0.0 lint
+> eslint .
+
+
+D:\Project\Rate_Limiter\frontend\src\components\AlgorithmDetails.tsx
+  32:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\Project\Rate_Limiter\frontend\src\components\ControlPanel.tsx
+  33:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\Project\Rate_Limiter\frontend\src\components\FixedWindowViz.tsx
+   4:25  error  Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+  12:9   error  'fillPercent' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+D:\Project\Rate_Limiter\frontend\src\components\LeakyBucketViz.tsx
+  4:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\Project\Rate_Limiter\frontend\src\components\SlidingWindowCounterViz.tsx
+  4:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\Project\Rate_Limiter\frontend\src\components\SlidingWindowLogViz.tsx
+  4:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\Project\Rate_Limiter\frontend\src\components\TokenBucketViz.tsx
+  4:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\Project\Rate_Limiter\frontend\src\main.tsx
+  8:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\Project\Rate_Limiter\frontend\src\pages\VisualizationPage.tsx
+   1:29  error  'useCallback' is defined but never used   @typescript-eslint/no-unused-vars
+  17:70  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\Project\Rate_Limiter\frontend\src\services\api.ts
+  43:34  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\Project\Rate_Limiter\frontend\src\store\useStore.ts
+  2:48  error  'RequestLogEntry' is defined but never used  @typescript-eslint/no-unused-vars
+
+✖ 14 problems (14 errors, 0 warnings)
+
